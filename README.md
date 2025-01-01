@@ -1,4 +1,4 @@
-## 👋 Hi, I am [Kvazar-213452]!
+## 👋 Hi, I am Kvazar-213452!
 
 ### Programming languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,12 +19,6 @@
 
 ---
 
-## 📊 Statistics
-![Ваш GitHub статистика](https://github-readme-stats.vercel.app/api?username=ваш-нікнейм&show_icons=true&theme=radical)
-![Мови, що найчастіше використовуються](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-нікнейм&layout=compact&theme=radical)
-
----
-
 ## 📬 Контакти
-- 📧 Email: [email](mailto:ваш-email)
-- 🌐 Веб-сайт: [web site](https://ваш-вебсайт.com)
+- 📧 Email: [email](kvazar382@gmail.com)
+- 🌐 Web site: [web site](https://ваш-вебсайт.com)
